@@ -1,24 +1,24 @@
 # Ataques-DoS-no-Windows-RDP
 
- -RDP -> Remote Desktop Protocol, uma opção para Controlar um sistema de computador remotamente 
-``` ```
-➡️Objetivo Causar uma tela azul no windows rsrs :window:
+➡️ RDP -> Remote Desktop Protocol, uma opção para Controlar um sistema de computador remotamente 
+ 
+:heavy_check_mark: Objetivo Causar uma tela azul no windows rsrs :window:
 
-:one: acessando nosso metasploit no kali
+:heavy_check_mark: acessando nosso metasploit no kali
 comando : ```msfconsole ```
 
-➡️Iremos fazer uma busca pelo RDP com o comando ```search rdp```
+:heavy_check_mark: Iremos fazer uma busca pelo RDP com o comando ```search rdp```
 
 ![image](https://github.com/user-attachments/assets/fc945ed3-a074-4300-b9ab-a96280da1f29)
 
 
-➡️Diante de tantos payloads iremos utilizar um especifico como mostra a imagem abaixo.
+:heavy_check_mark: Diante de tantos payloads iremos utilizar um especifico como mostra a imagem abaixo.
 
 ![image](https://github.com/user-attachments/assets/8e33af2c-1dc5-4796-b836-7baba8d09873)
 
 ---
 
-➡️Para entrar no exploit usamos o comando ```use```.
+:heavy_check_mark: Para entrar no exploit usamos o comando ```use```.
 
 ![image](https://github.com/user-attachments/assets/5d9e0fc1-e2ab-4ad3-8efd-8e9bb7c4b392)
 
